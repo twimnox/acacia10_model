@@ -15,7 +15,7 @@ data set, compile the program and train the model.
 
 http://tensorflow.org/tutorials/deep_cnn/
 """
-
+#Gonna go 200x200
 #im developing dude!
 #did i just change this ?!?!?!
 from datetime import datetime
